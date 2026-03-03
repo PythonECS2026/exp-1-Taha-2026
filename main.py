@@ -1,5 +1,5 @@
 # AIM: Create a personalized greeting message
-#Coder: ABUTAHA IDRISI
+#Coder: 
 #Date: 3/3/26
 
 name=input("Enter Name: ")
